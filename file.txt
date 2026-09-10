@@ -1,9 +1,8 @@
 first
 second
 third
-<<<<<<< HEAD
 to all passing
-=======
 fourth
 fifth
->>>>>>> 8136843 ( ammended)
+third in progress
+the sky is blue
